@@ -40,6 +40,8 @@ end
 def using_flatten(instruments)
   instruments.flatten
 end  
+
+def using_delete
   
   
   
